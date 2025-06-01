@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Graph Coloring.<br>👯 I’m looking to collaborate on Sign Language Translation.<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning Computer Science<br>💬 Ask me about CP or life at Netherlands :)
+👯 I’m looking to collaborate on Sign Language Translation.<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning Computer Science<br>💬 Ask me about CP or life at Netherlands :)
 
 
 ## 🌐 Socials:
